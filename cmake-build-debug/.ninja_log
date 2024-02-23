@@ -1,0 +1,11 @@
+# ninja log v5
+20	481	6987135848548515	CMakeFiles/SpaceInvadersSFML.dir/src/GameObject.cpp.obj	96dc8ffed000d174
+36	170	6986185307112546	CMakeFiles/SpaceInvadersSFML.dir/src/Vector2.cpp.obj	5e446bb690cabdc1
+3	450	6998534247497364	CMakeFiles/SpaceInvadersSFML.dir/src/main.cpp.obj	101ba75c7c73823c
+3	496	6998559479746094	CMakeFiles/SpaceInvadersSFML.dir/src/Game.cpp.obj	31f6fbb8d725bb5c
+497	1189	6998559486531013	SpaceInvadersSFML.exe	f4003cfcc4733ee0
+15	81	7304036311720341	CMakeFiles/SpaceInvadersSFML.dir/src/Vector2.cpp.obj	a1fc9d48800880f3
+11	330	7304036314212009	CMakeFiles/SpaceInvadersSFML.dir/src/GameObject.cpp.obj	629055b09c80f48b
+7	341	7304036314321641	CMakeFiles/SpaceInvadersSFML.dir/src/main.cpp.obj	14f9dbc180fd2a16
+3	430	7304036315198709	CMakeFiles/SpaceInvadersSFML.dir/src/Game.cpp.obj	bbd07f468d22be26
+431	1028	7304036321113973	SpaceInvadersSFML.exe	f4003cfcc4733ee0
